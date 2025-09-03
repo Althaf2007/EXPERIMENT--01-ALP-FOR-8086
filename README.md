@@ -128,10 +128,10 @@ MOV [2004H],AX
 RET
 
 ## Output  
-![Uploading Screenshot 2025-09-03 083927.png…]()
+<img width="1918" height="1128" alt="Screenshot 2025-09-03 083927" src="https://github.com/user-attachments/assets/21b3e8fa-2811-47a3-baa7-c6050b61c735" />
 
 ## Result :
- 
+The execution of ALP on fundamental arithmetic and logical operations is successfully completed
 
 
 
